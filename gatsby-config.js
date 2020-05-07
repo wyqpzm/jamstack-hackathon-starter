@@ -1,6 +1,6 @@
 // TODO: dear user, please change this to your own instance
-const netlifyInstance = "https://jamstack-hackathon-starter.netlify.com"
-if (netlifyInstance === "https://jamstack-hackathon-starter.netlify.com") {
+const netlifyInstance = "https://trusting-euclid-081097.netlify.app"
+if (netlifyInstance === "https://trusting-euclid-081097.netlify.app") {
   console.warn(`
 
 **************************
